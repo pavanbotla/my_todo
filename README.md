@@ -2,7 +2,7 @@
 
 ## App view
 
-<img src="./Todo_list/assets/todo_list.gif" width="305" height="650">
+<img src="./TODO_LIST/assets/todo_list.gif" width="305" height="650">
 
 ## Implementation of the project
 
